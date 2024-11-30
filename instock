@@ -1,1 +1,1 @@
-FROM hub.docker.com/r/mayanghua/instock
+FROM index.docker.io/mayanghua/instock
