@@ -1,1 +1,1 @@
-FROM index.docker.io/rust
+FROM index.docker.io/rustdesk
