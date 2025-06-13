@@ -1,1 +1,1 @@
-FROM index.docker.io/mariadb
+FROM index.docker.io/rust
